@@ -1,0 +1,9 @@
+node_modules
+package-lock.json
+/lib.zip
+/.env
+/.next
+/.now
+/.vercel
+/lib/*.so*
+/.vscode
